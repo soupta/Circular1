@@ -6,7 +6,7 @@ https://www.pbinfo.ro/probleme/4097/circular1
 
 Copy if you want.
 
-/////////Here is the problem translated form chat=gpt//////////
+/////////Here is the problem translated form Chat-GPT//////////
 
 
 Circular Printer
